@@ -1,4 +1,4 @@
-[Wenjie Kang:](https://github.com/JWKKWJ123/JWKKWJ123.github.io/blob/main/head.jpg)
+![Wenjie Kang:](https://github.com/JWKKWJ123/JWKKWJ123.github.io/blob/main/head.jpg)  
 I am a PhD student at the Biomedical Imaging Group Rotterdam (BIGR) Erasmus MC, Netherlands. I am focusing on interpretable machine learning including deep learning methods, for the diagnosis of demantias using neuroimaging data.  
 Research field: machine learning, deep learning, medical image processing, Alzheimer's disease.  
 [School email:](mailto:%20w.kang@erasmusmc.nl) w.kang@erasmusmc.nl  
