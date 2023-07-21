@@ -1,4 +1,5 @@
-I am a PhD student at the Biomedical Imaging Group Rotterdam (BIGR) Erasmus MC, Netherlands. I am focusing on interpretable machine learning including deep learning methods, for the diagnosis of demantias using neuroimaging data.
+I am a PhD student at the Biomedical Imaging Group Rotterdam (BIGR) Erasmus MC, Netherlands. I am focusing on interpretable machine learning including deep learning methods, for the diagnosis of demantias using neuroimaging data.  
+Research field: machine learning, deep learning, medical image processing, Alzheimer's disease.  
 [Github:](https://github.com/JWKKWJ123)  
 [School homepage：](https://radiology.gitlab.io/general/bigr-website-dev/member/wenjie/)  
 [Google scholar:](https://scholar.google.nl/citations?user=PjLLcq0AAAAJ&hl=zh-CN)  
