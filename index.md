@@ -1,3 +1,6 @@
-这是昊虹图像处理算法的个人主页！
-这是昊虹图像处理算法的个人主页！
-[点此访问昊虹图像处理算法的CSDN博客。](https://blog.csdn.net/wenhao_ir)
+
+[Github:](https://github.com/JWKKWJ123)
+[School homepage：](https://radiology.gitlab.io/general/bigr-website-dev/member/wenjie/)
+[Google scholar:](https://scholar.google.nl/citations?user=PjLLcq0AAAAJ&hl=zh-CN)
+[Linkin:](https://www.linkedin.com/in/wenjie-kang-236731253/?locale=en_US)
+[Researchgate:](https://www.researchgate.net/profile/Wenjie-Kang-3)
